@@ -13,3 +13,4 @@ pycryptodome
 importlib-metadata
 plotly
 seaborn
+shap
