@@ -1,4 +1,4 @@
-# 🛡️ CyberSecure — AI/ML Intrusion Detection & Real-Time Threat Triage  
+# 🛡️ CyberSecure — AI/ML Intrusion Detection
 📍 Built in 24 Hours during **REDACT Cybersecurity Hackathon (2025)**
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
