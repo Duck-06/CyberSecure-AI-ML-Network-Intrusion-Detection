@@ -253,9 +253,6 @@ By combining **SHAP explainability** with the **Blockchain-based Intrusion Ledge
 This XAI integration transforms the IDS from a black-box classifier into a **fully interpretable, analyst-friendly security system**.
 
 ---
-
-
----
 ## 📂 Repository Structure
 ```
 offline_ids/
@@ -321,6 +318,5 @@ See LICENSE file for full details.
 📬 Contact Info
 
 👤 Author: [Rudra Tatuskar]
-📧 Email: [your-email]
-🐙 GitHub: [your GitHub profile]
-🔗 LinkedIn: [your LinkedIn profile]
+🐙 GitHub: [Duck-06]
+🔗 LinkedIn: [Rudra Tatuskar]
